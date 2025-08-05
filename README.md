@@ -11,17 +11,10 @@
 
 ## 👨‍💻 About Me
 - 🎓 Final Year B.Tech CSE student from **Dehradun**
-- 🔍 Exploring the **MERN Stack**, **Data Structures**, and **System Design**
-- 🚀 Passionate about solving real-world problems through code
-- 🛠️ Creator of [Ultra DSA Roadmap](https://github.com/roguefreaks/dsa-roadmap-generator)
-
 ---
 
 ## 🧠 What I'm Working On
 - 📦 Building scalable full stack applications
-- 📊 Mastering LeetCode for placements
-- ⚙️ Exploring concepts in **AI**, **Compilers**, and **Security Auditing**
-
 ---
 
 ## 📌 Featured Projects
