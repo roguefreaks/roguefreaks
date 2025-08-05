@@ -8,7 +8,6 @@
 ### 🧑‍💻 About Me
 - 🎓 Final Year B.Tech CSE student from **Dehradun**
 - 👨‍💻 Currently diving deep into **MERN Stack**, **Data Structures**, and **System Design**
-- 🚀 Actively building: [Ultra DSA Roadmap](https://github.com/roguefreaks/dsa-roadmap-generator)
 - 🛠️ Projects in:
   - **Computer Vision** using OpenCV
   - **Text Summarization** in Python
@@ -17,10 +16,7 @@
 ---
 
 ### 🧩 What Drives Me
-- ⚔️ Striver’s DSA Course – For placement-level mastery
 - 🛒 Building real-world apps like [MERN E-Commerce Store](https://github.com/roguefreaks/mern-ecommerce-store)
-- 💡 Exploring **AI**, **Compilers**, and **Security Auditing**
-
 ---
 
 ### 📫 Reach Out To Me
