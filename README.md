@@ -1,32 +1,38 @@
-<h1 align="center">Hi 👋, I'm Achyut Anand Pandey</h1>
+<h1 align="center">Hey there! 👋 I'm Achyut Anand Pandey</h1>
+<p align="center"><em>Final Year CSE Student • Full Stack Explorer • DSA Enthusiast • Placement Ready</em></p>
+
 <p align="center">
-  <em>A Final Year CSE Undergrad • Full Stack Explorer • DSA Devotee • Passionate Learner</em>
+  <a href="https://leetcode.com/u/roguefreak/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode&logoColor=white"/></a>
+  <a href="mailto:achyutpandey018@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/achyut-pandey-02848032b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 👨‍💻 About Me
 - 🎓 Final Year B.Tech CSE student from **Dehradun**
-- 👨‍💻 Currently diving deep into **MERN Stack**, **Data Structures**, and **System Design**
-- 🛠️ Projects in:
-  - **Computer Vision** using OpenCV
-  - **Text Summarization** in Python
-  - **Big Integer Arithmetic** in C
+- 🔍 Exploring the **MERN Stack**, **Data Structures**, and **System Design**
+- 🚀 Passionate about solving real-world problems through code
+- 🛠️ Creator of [Ultra DSA Roadmap](https://github.com/roguefreaks/dsa-roadmap-generator)
 
 ---
 
-### 🧩 What Drives Me
-- 🛒 Building real-world apps like [MERN E-Commerce Store](https://github.com/roguefreaks/mern-ecommerce-store)
----
-
-### 📫 Reach Out To Me
-- 📧 Email: achyutpandey018@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/achyut-pandey-02848032b)
-- 💻 [LeetCode](https://leetcode.com/u/roguefreak/)
+## 🧠 What I'm Working On
+- 📦 Building scalable full stack applications
+- 📊 Mastering LeetCode for placements
+- ⚙️ Exploring concepts in **AI**, **Compilers**, and **Security Auditing**
 
 ---
 
-### 🧠 Tech Stack & Tools
+## 📌 Featured Projects
+- 🛒 [MERN E-Commerce Store](https://github.com/roguefreaks/mern-ecommerce-store) – React, Node, MongoDB, JWT Auth
+- 🧠 [Text Summarization](https://github.com/roguefreaks/text_summarizatn) – Python NLP
+- 📷 [Lane Detection using OpenCV](https://github.com/roguefreaks/Lane_detection_using_opencv)
+- 🔢 [Big Integer Arithmetic](https://github.com/roguefreaks/Big_Integer_Lib) – C Implementation
+
+---
+
+## 🧰 Tech Stack
 
 ```bash
 💻 Languages:     C, C++, Python, JavaScript, PHP
@@ -35,11 +41,5 @@
 🧱 Database:      MySQL, MongoDB
 🧪 Tools:         Git, GitHub, XAMPP, Postman, VS Code, Figma
 ```
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roguefreaks&show_icons=true&theme=github_dark" alt="Achyut's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=roguefreaks&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roguefreaks&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=roguefreaks&show_icons=true&theme=github_dark" alt="GitHub Stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=roguefreaks&theme=github-dark" alt="GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roguefreaks&layout=compact&theme=github_dark" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=roguefreaks&show_icons=true&theme=github_dark" alt="GitHub Stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=roguefreaks&theme=github-dark" alt="GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roguefreaks&layout=compact&theme=github_dark" alt="Top Languages" /> </p>
