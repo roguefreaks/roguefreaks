@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Achyut Anand Pandey</h1>
-<p align="center"><em>Final Year CSE Student • Full Stack Explorer • DSA Enthusiast • Placement Ready</em></p>
+<p align="center"><em>Final Year CSE Student</em></p>
 
 <p align="center">
   <a href="https://leetcode.com/u/roguefreak/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode&logoColor=white"/></a>
@@ -41,5 +41,3 @@
 🧱 Database:      MySQL, MongoDB
 🧪 Tools:         Git, GitHub, XAMPP, Postman, VS Code, Figma
 ```
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=roguefreaks&show_icons=true&theme=github_dark" alt="GitHub Stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=roguefreaks&theme=github-dark" alt="GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roguefreaks&layout=compact&theme=github_dark" alt="Top Languages" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=roguefreaks&show_icons=true&theme=github_dark" alt="GitHub Stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=roguefreaks&theme=github-dark" alt="GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roguefreaks&layout=compact&theme=github_dark" alt="Top Languages" /> </p>
